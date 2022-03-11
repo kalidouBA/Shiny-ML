@@ -1,0 +1,12 @@
+name: Shiny-App-ML-DataScience-Labo-master-v01
+title: Shiny-App-ML-DataScience-Labo-master-v01
+username:
+account: mlappshinytest
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3056756
+bundleId: 3808609
+url: https://mlappshinytest.shinyapps.io/Shiny-App-ML-DataScience-Labo-master-v01/
+when: 1604283782.48564
+asMultiple: FALSE
+asStatic: FALSE
